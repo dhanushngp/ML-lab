@@ -1,0 +1,10 @@
+11. Implement the FIND-S algorithm
+12. Perform Data Pre - Processing
+13. Write a program to demonstrate the working of the decision tree based ID3 algorithm
+14. Demonstrate the Liner Regression algorithm
+15. Write a program to demonstrate the working of the Support Vector Machines algorithm.
+16. Build KNN Classification model for a given dataset.
+17. Implementation of Regression Algorithm
+18. Execute Clustering Algorithm
+19. Implement Dimensionality reduction using Principal Component Analysis (PCA) method
+20. Mini Project
